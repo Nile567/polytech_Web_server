@@ -1,0 +1,6 @@
+﻿cl : командная строка warning D9025: переопределение "/TC" на "/TP"
+  socketio.c
+d:\desktop\webserver\webserver\socketio.h(8): fatal error C1083: Не удается открыть файл включение: openssl/bio.h: No such file or directory,
+  webserver.c
+d:\desktop\webserver\webserver\socketio.h(8): fatal error C1083: Не удается открыть файл включение: openssl/bio.h: No such file or directory,
+  Создание кода...
